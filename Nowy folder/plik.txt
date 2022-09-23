@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+	<html lang="pl-PL">
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>plik_Barkowski</title>
+	</head>
+	 <body>
+<A href ="instrukcja.pdf">k&nbsp;l&nbsp;i&nbsp;k&nbsp; aby œci¹gn¹æ plik</A> <br>
+<A HREF="index.html"> wróæ</A>
+	 </body>
+
+  
+
+   </html>
